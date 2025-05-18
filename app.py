@@ -285,7 +285,8 @@ Avoid repetition. Let the brand feel like a helpful enabler woven into the narra
             st.markdown("""
 ---
 ### 
-Let me know your feedback on this tool! I’m always looking to improve it. I'm on manmeet.akali@gmail.com
+Let me know your feedback on this tool! I’m always looking to improve it. I'm on manmeet.akali@gmail.com'
+This tool is based on a storytelling framework (inspired by the book Fast, Cheap & Viral) that helped Scaler School of Technology go from 0 to 50,000 subscribers — without an agency or crazy spends. We’ve since shared it with other startups and seen it work again and again. 
 
 Don’t keep the good stuff to yourself — your team deserves to see this 🔥👇
                     
