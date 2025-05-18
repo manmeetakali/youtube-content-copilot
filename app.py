@@ -151,17 +151,17 @@ def call_llama3(prompt):
 
 # Hero section
 st.markdown("""
-<h1 style='font-size: 1.75rem;'>😎 FREE Youtube Co-Pilot</h1>
-<p>Hey there! I'm <a href='https://www.linkedin.com/in/manmeetakali/' target='_blank'>Manmeet</a>. I built this little tool because I had little to do last weekend & creating YouTube content shouldn't feel like gambling with ideas and burning money on agencies./p>
-<p>This exact framework took <strong>Scaler School of Technology's channel from 0 to 50,000 subscribers</strong> — with barely any budget. .</p>
-<p><strong>Here’s how this works:</strong></p>
-<ol>
-  <li>Tell me what your business does</li>
-  <li>Tell me who you’re talking to (your ideal audience)</li>
-  <li>I’ll pull out 50 real-world problems they’re facing — unrelated to your brand</li>
-  <li>Then I’ll use those to generate video ideas using 5 content archetypes: <em>Inspirational, Useful, Celebratory, Topical, and Change-the-world</em></li>
-</ol>
-<p> Give this a chance, it works like magic. Aai Shapat. Let’s go 👇</p>
+<h1 style='font-size: 1.75rem;'>🎁 FREE YouTube Co-Pilot 👨‍✈️</h1>
+
+<p>Hey, I’m <a href='https://www.linkedin.com/in/manmeetakali/' target='_blank'>Manmeet</a>. I built this because most brand YouTube channels suck — and it’s not your fault.</p>
+
+<p>Here’s the truth: most teams treat YouTube like an ad campaign. Fancy shoots. Big budgets. Zero soul. The content ends up saying what *the brand* wants to say, not what *the user* actually cares about. That’s why it flops.</p>
+
+<p>This tool flips that script. It’s based on a storytelling framework (inspired by the book Fast, Cheap & Viral) that helped <strong>Scaler School of Technology go from 0 to 50,000 subscribers</strong> — without an agency or crazy spends. We’ve since shared it with other startups and seen it work again and again.</p>
+
+<p>The secret? We don’t start with product features. We start with real-life <em>problems</em> your user faces — and build content that solves, celebrates, or spotlights those problems. The result: content that feels useful, shareable, and human.</p>
+
+<p>Let’s build your plan the same way. This works like magic, Aai Shapat!👇</p>
 """, unsafe_allow_html=True)
 
 # Step 0: Optional Brand Name Input
@@ -289,11 +289,16 @@ Avoid repetition. Let the brand feel like a helpful enabler woven into the narra
 Let me know your feedback on this tool! I’m always looking to improve it. I'm on manmeet.akali@gmail.com
 
 Don’t keep the good stuff to yourself — your team deserves to see this 🔥👇
-
+                    
 - [💬 WhatsApp](https://api.whatsapp.com/send?text=Yo%2C%20just%20used%20this%20killer%20AI%20tool%20to%20build%20a%2090-day%20YouTube%20plan%20that%20actually%20makes%20sense.%20Try%20it%20👉%20https%3A%2F%2Fyourdomain.com)
 - [🐦 Twitter](https://twitter.com/intent/tweet?text=Just%20used%20an%20AI%20tool%20to%20generate%20a%2090-day%20YouTube%20plan%20that%20makes%20you%20look%20like%20a%20genius.%20Try%20it%20👉%20https%3A%2F%2Fyourdomain.com)
 - [🔗 LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://yourdomain.com)
 """)
+            st.image(
+    "https://indianmemetemplates.com/wp-content/uploads/2019/01/jor-jor-se-bolke-sabko-scheme-bata-de.jpg",
+    caption="Jor Jor Se Bolke Sabko Scheme Bata De",
+    use_column_width=True
+)
 
 st.markdown("---")
 st.info("💡 Pro tip: Don’t stress over camera gear or lighting. A well-shot iPhone video with tight storytelling will beat a 5-cam rig with no soul. Invest in scripts, editing, and empathy. That’s what makes people stop scrolling.")
