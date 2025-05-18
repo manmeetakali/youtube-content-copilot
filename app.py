@@ -151,18 +151,17 @@ def call_llama3(prompt):
 
 # Hero section
 st.markdown("""
-<h1 style='font-size: 1.75rem;'>🎁 FREE YouTube Co-Pilot 👨‍✈️</h1>
+st.markdown("""
+<h1 style='font-size: 1.75rem;'> 🎁 FREE Youtube Co-Pilot📈</h1>
+<p>Hey, I’m Manmeet. I built this because most brands get YouTube wrong.</p>
 
-<p>Hey, I’m <a href='https://www.linkedin.com/in/manmeetakali/' target='_blank'>Manmeet</a>. I built this because most brand YouTube channels suck — and it’s not your fault.</p>
+<p>Brands usually go "me-me-me" & treat YT like an ad campaign. Big budgets. Zero Soul. The content ends up saying what <em>the brand</em> wants to say, not what <em>the user</em> actually cares about. That’s why it flops.</p>
 
-<p>Here’s the truth: most teams treat YouTube like an ad campaign. Fancy shoots. Big budgets. Zero soul. The content ends up saying what *the brand* wants to say, not what *the user* actually cares about. That’s why it flops.</p>
-
-<p>This tool flips that script. It’s based on a storytelling framework (inspired by the book Fast, Cheap & Viral) that helped <strong>Scaler School of Technology go from 0 to 50,000 subscribers</strong> — without an agency or crazy spends. We’ve since shared it with other startups and seen it work again and again.</p>
-
-<p>The secret? We don’t start with product features. We start with real-life <em>problems</em> your user faces — and build content that solves, celebrates, or spotlights those problems. The result: content that feels useful, shareable, and human.</p>
+<p>The secret of this tool? We don’t start with product features. We start with real-life problems your user faces — and build content that solves, celebrates, or spotlights those problems. The result: content that feels useful, shareable, and human.</p>
 
 <p>Let’s build your plan the same way. This works like magic, Aai Shapat!👇</p>
 """, unsafe_allow_html=True)
+
 
 # Step 0: Optional Brand Name Input
 st.markdown("<h3>We're going to ask you few basic Qs.</h3>", unsafe_allow_html=True)
