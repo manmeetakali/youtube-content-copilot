@@ -152,7 +152,7 @@ def call_llama3(prompt):
 # Hero section
 st.markdown("""
 st.markdown("""
-<h1 style='font-size: 1.75rem;'> 🎁 FREE Youtube Co-Pilot📈</h1>
+<h1 style='font-size: 1.75rem;'> Youtube Strategy Co-Pilot📈</h1>
 <p>Hey, I’m Manmeet. I built this because most brands get YouTube wrong.</p>
 
 <p>Brands usually go "me-me-me" & treat YT like an ad campaign. Big budgets. Zero Soul. The content ends up saying what <em>the brand</em> wants to say, not what <em>the user</em> actually cares about. That’s why it flops.</p>
